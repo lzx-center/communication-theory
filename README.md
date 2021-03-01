@@ -1,2 +1,2 @@
-# communication_theory
-communication-theory class materials of CUC
+# 通信原理
+中国传媒大学《通信原理》课程课件、课后作业、实验报告以及复习资料
